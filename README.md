@@ -2,6 +2,8 @@
 
 这是一个可通过 GitHub Pages 浏览的 AI 作品集，首页入口为 `index.html`。
 
+在线访问：https://riverfish1004.github.io/jianghanyu-portfolio/
+
 ## 作品
 
 - [部门看板](部门看板-脱敏后.html)
